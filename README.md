@@ -2,6 +2,8 @@
 
 Go onto remix.ethereum.org
 
+Create new file.
+
 Add the file "Election.sol" in my repository under the contracts folder. Delete files until it resembles what I have in my image.
 
 Compile (turn auto compile on).
