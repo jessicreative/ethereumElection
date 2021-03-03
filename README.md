@@ -2,7 +2,7 @@
 
 Go onto remix.ethereum.org
 
-Add the file "Election.sol" in my repository under the contracts folder and get rid of other files ending in .sol.
+Add the file "Election.sol" in my repository under the contracts folder.
 
 Compile (turn auto compile on).
 
@@ -20,5 +20,13 @@ If you wish to vote for a certain candidate from a certain account, make sure fi
 
 The other buttons below will show you more data about the election, including the number of votes, the owner accoutn, and if you put in address of the account in the "voters" field and press call, you will see the status of the voter - if they are shown to have already voted, they can't vote again.
 
+The console should show you which process worked, and which didn't.
 
 Credits to https://www.youtube.com/watch?v=ucszgKGFnwc. A lot of the bugs that no longer work are fixed in my current code, and my readme has more thorough descriptions of how to navigate the IDE and proceed with the election.
+
+![image](https://user-images.githubusercontent.com/56166919/109756528-f4605280-7b9c-11eb-8f97-fdf0d0b44607.png)
+![image](https://user-images.githubusercontent.com/56166919/109756466-de529200-7b9c-11eb-964d-184713d3b229.png)
+![image](https://user-images.githubusercontent.com/56166919/109756398-bc590f80-7b9c-11eb-80f2-8b79b4241027.png)
+![image](https://user-images.githubusercontent.com/56166919/109756418-c4b14a80-7b9c-11eb-83b0-10ca031cf2d6.png)
+![image](https://user-images.githubusercontent.com/56166919/109756451-d7c41a80-7b9c-11eb-9b43-a2fbf526a07d.png)
+
