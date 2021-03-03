@@ -10,7 +10,7 @@ Go to the deploy and run transactions tab.
 
 Set environment as Javascript VM.
 
-Choose an account to start with as the owner of the account - it will be the only account that can authorize other accounts to vote in this election. Copy paste in the address or name of the accounts you want to authorize (including this initial one you act as) by going to the top, switching to the specific person you want to authorize, and copying the "account" field. Then switch back to the original account since that's the only one allowed to authorize all. Press transact each time you paste the address name in the authorize field to authorize.
+Choose an account to start with as the owner of the account - it will be the only account that can authorize other accounts to vote and add candidates in this election. Copy paste in the address or name of the accounts you want to authorize (including this initial one you act as) by going to the top, switching to the specific person you want to authorize, and copying the "account" field. Then switch back to the original account since that's the only one allowed to authorize all. Press transact each time you paste the address name in the authorize field to authorize.
 
 In the field "Add Candidate", add a candidate name with "" around it and click transact to add the candidate. Continue until you are done adding all the candidates. This will go into the array called candidates.
 
